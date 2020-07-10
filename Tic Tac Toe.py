@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 l = [' ',' ',' ',' ',' ',' ',' ',' ',' ']
 
 name_p1 = input('Player 1 give yor name , you will start first with X ')
@@ -121,10 +115,7 @@ while moves<10:
     elif (' ') not in l:
         print('Draw')
         break
-   
 
-
-# In[ ]:
 
 
 
